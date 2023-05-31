@@ -10,12 +10,12 @@ The portfolio is built using modern web technologies such as HTML, CSS, and Java
 
 
 **Features**
-*Responsive layout for mobile, tablet, and desktop screens
-*Navigation menu to easily navigate between sections
-*Project showcase with detailed project information and screenshots
-*Contact form for potential clients or employers to get in touch
-*Smooth scrolling for a seamless user experience
-*Optimized performance and loading times
+* Responsive layout for mobile, tablet, and desktop screens
+* Navigation menu to easily navigate between sections
+* Project showcase with detailed project information and screenshots
+* Contact form for potential clients or employers to get in touch
+* Smooth scrolling for a seamless user experience
+* Optimized performance and loading times
 
 
 **Usage**
@@ -25,16 +25,19 @@ Open the index.html file in a web browser to view the portfolio.
 
 
 **Technologies Used**
+
 HTML5
 CSS3
 JavaScript
 
 
 **Author**
+
 Lewis Thagichu
 
 
 **License**
+
 This project is licensed under the MIT License.
 
 
