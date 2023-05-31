@@ -20,25 +20,26 @@ The portfolio is built using modern web technologies such as HTML, CSS, and Java
 
 
 **Usage**
+***
 Clone the repository: git clone https://github.com/lewisthagichu/Portfolio.git
 Open the project folder: cd portfolio
 Open the index.html file in a web browser to view the portfolio.
 
 
 **Technologies Used**
-
+***
 HTML5
 CSS3
 JavaScript
 
 
 **Author**
-
+***
 Lewis Thagichu
 
 
 **License**
-
+***
 This project is licensed under the MIT License.
 
 
