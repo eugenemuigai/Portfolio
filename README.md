@@ -2,8 +2,9 @@
 This is my personal portfolio showcasing my frontend development projects and skills.
 
 
-**Description**
 ***
+**Description**
+
 This portfolio website serves as a showcase for my frontend development projects, highlighting my skills, experience, and achievements. It provides visitors with an overview of my work and allows them to explore individual projects in more detail.
 
 
@@ -19,27 +20,27 @@ The portfolio is built using modern web technologies such as HTML, CSS, and Java
 * Optimized performance and loading times
 
 
-**Usage**
-***
-Clone the repository: git clone https://github.com/lewisthagichu/Portfolio.git
-Open the project folder: cd portfolio
-Open the index.html file in a web browser to view the portfolio.
+**Usage**:
 
 
-**Technologies Used**
-***
-HTML5
-CSS3
-JavaScript
+* Clone the repository: git clone https://github.com/lewisthagichu/Portfolio.git
+* Open the project folder: cd portfolio
+* Open the index.html file in a web browser to view the portfolio.
+
+
+**Technologies Used**:
+* HTML5
+* CSS3
+* JavaScript
 
 
 **Author**
-***
-Lewis Thagichu
+* Lewis Thagichu
 
 
 **License**
-***
+
+
 This project is licensed under the MIT License.
 
 
