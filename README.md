@@ -3,6 +3,7 @@ This is my personal portfolio showcasing my frontend development projects and sk
 
 
 **Description**
+***
 This portfolio website serves as a showcase for my frontend development projects, highlighting my skills, experience, and achievements. It provides visitors with an overview of my work and allows them to explore individual projects in more detail.
 
 
